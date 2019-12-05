@@ -1,5 +1,3 @@
-# Collateral Change Guide
-
 ![Example-Logo](https://cdn.discordapp.com/attachments/444587921467768842/651938756437344266/unknown.png)
 
 # Function Coin Masternode Collateral Guide
